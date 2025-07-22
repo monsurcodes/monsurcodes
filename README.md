@@ -26,9 +26,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/monsurcodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="monsurcodes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsurcodes&show_icons=true&locale=en&layout=compact" alt="monsurcodes" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsurcodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="monsurcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsurcodes&show_icons=true&locale=en" alt="monsurcodes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsurcodes&show_icons=true&locale=en&theme=radical" alt="monsurcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsurcodes&" alt="monsurcodes" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monsurcodes&theme=radical" alt="monsurcodes profile summary" /></p>
 
