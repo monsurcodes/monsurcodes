@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/monsurcodes" target="blank"><img src="https://img.shields.io/twitter/follow/monsurcodes?logo=twitter&style=for-the-badge" alt="monsurcodes" /></a> </p>
 
-- 🔭 I’m currently working on [movies-downloader](https://github.com/monsurcodes/movies-downloader)
+- 🔭 I’m currently working on [Telegram Assistant Bot](https://github.com/monsurcodes/telegram_assistant_bot)
 
 - 🌱 I’m currently learning **Electron.js**
 
