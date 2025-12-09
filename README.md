@@ -8,7 +8,7 @@
 
 A cat person.
 
-Mid ahh programmer with procastination issues. Love exploring different tech stacks. Never worked with a team, want it so bad ＞﹏＜
+Mid ahh programmer with procrastination issues. Love exploring different tech stacks. Never worked with a team, want it so bad ＞﹏＜
 <hr/>
 
 😻 **Loves to do**
