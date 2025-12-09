@@ -1,7 +1,24 @@
 <img src="./assets/main_banner.jpg" alt="MasterHead" width="100%" />
 
 <h1 align="center">Nani Da Fuq</h1>
+<img align="right" alt="side-image" width="400" src="./assets/right_banner.jpg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@:monsurcodes?theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
+
+👨‍💻 **About me**
+
+A cat person.
+
+Mid ahh programmer with procastination issues. Love exploring different tech stacks. Never worked with a team, want it so bad ＞﹏＜
+<hr/>
+
+😻 **Loves to do**
+1. Building and documenting full-stack web projects using modern JavaScript frameworks.
+2. Improving Git workflow, including branching, pull requests, and version control best practices.
+3. Python Scripting
+4. Telegram Bot Development
+5. Taking inspirations from fellow developers
+6. Maintaining proper Project Structure
+7. Caffeine intake
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +26,8 @@
 [![Discord](https://lanyard.cnrad.dev/api/873832672424763404?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/873832672424763404)
 </p>
 
+
+<hr/>
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   
