@@ -1,6 +1,6 @@
 <img src="./assets/main_banner.jpg" alt="MasterHead" width="100%" />
 
-<h1 align="center">Nani Da Fuq</h1>
+<h1 align="center">Let's brainstorm a better tomorrow  :3</h1>
 <img align="right" alt="side-image" width="400" src="./assets/right_banner.jpg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@:monsurcodes?theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
 
