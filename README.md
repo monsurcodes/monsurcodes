@@ -1,3 +1,4 @@
+<img src="./assets/main_banner.jpg" alt="MasterHead" width="100%" />
 
 <h1 align="center">Nani Da Fuq</h1>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@:monsurcodes?theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
