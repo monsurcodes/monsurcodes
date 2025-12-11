@@ -1,14 +1,11 @@
-<img src="./assets/main_banner.jpg" alt="MasterHead" width="100%" />
-
 <h1 align="center">Let's brainstorm a better tomorrow  :3</h1>
-<img align="right" alt="side-image" width="400" src="./assets/right_banner.jpg"/>
 <p align="left"> <img src="https://moe-counter-tan.vercel.app/@:monsurcodes?theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
 
 👨‍💻 **About me**
 
 A cat person.
 
-Mid ahh programmer with procrastination issues. Love exploring different tech stacks. Never worked with a team, want it so bad ＞﹏＜
+Mid ahh programmer with procrastination issues. Love exploring different tech stacks.
 <hr/>
 
 😻 **Loves to do**
@@ -16,7 +13,7 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
 2. Improving Git workflow, including branching, pull requests, and version control best practices.
 3. Python Scripting
 4. Telegram Bot Development
-5. Taking inspirations from fellow developers
+5. Taking inspirations from other developers
 6. Maintaining proper Project Structure
 7. Caffeine intake
 
@@ -41,11 +38,11 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
   <tr>
     <td>
       
-[![Stats](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue_navy&show_icons=true&hide_border=true&count_private=true)
+[![Stats](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
-[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=monsurcodes&theme=blue_navy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=monsurcodes&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
    </td>
 
   </tr>
@@ -53,7 +50,7 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
 <br />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=monsurcodes&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="38%" />
+  <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="38%" />
 </div>
 
 [![Spotify](https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True)](https://open.spotify.com/user/31uynq4le2x5h7g2erg73nu2wzzy)
