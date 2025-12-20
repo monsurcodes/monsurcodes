@@ -38,11 +38,11 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
   <tr>
     <td>
       
-[![Stats](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-ten-rho-72.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+[![Stats](https://github-readme-stats-minkxx.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-minkxx.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
-[![GitHub Streak](https://github-readme-streak-stats-ten-jet.vercel.app/?user=monsurcodes&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-minkxx.vercel.app/?user=monsurcodes&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
    </td>
 
   </tr>
@@ -50,7 +50,7 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
 <br />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="38%" />
+  <img align="left" src="https://github-readme-stats-minkxx.vercel.app/api/top-langs/?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="38%" />
 </div>
 
 [![Spotify](https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True)](https://open.spotify.com/user/31uynq4le2x5h7g2erg73nu2wzzy)
