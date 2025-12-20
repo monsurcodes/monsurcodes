@@ -1,5 +1,5 @@
 <h1 align="center">Let's brainstorm a better tomorrow  :3</h1>
-<p align="left"> <img src="https://count.getloli.com/@:monsurcodes?name=%3Amonsurcodes&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
+<p align="left"> <img src="https://count.getloli.com/@:monsurcodes?name=%3Amonsurcodes&theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
 
 👨‍💻 **About me**
 
