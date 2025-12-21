@@ -20,7 +20,7 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![Discord](https://lanyard.cnrad.dev/api/873832672424763404?theme=dark&showDisplayName=true&idleMessage=I%20reply%20late%20in%20dms)](https://discord.com/users/873832672424763404)
+[![Discord](https://lanyard.cnrad.dev/api/873832672424763404?idleMessage=%3ELet's%20brainstorm%20a%20better%20tomorrow%20%20%3A3)](https://discord.com/users/873832672424763404)
 </p>
 
 
